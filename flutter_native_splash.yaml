@@ -1,0 +1,16 @@
+flutter_native_splash:
+
+  background_image: challengesTRACTIAN/assets/tractian_name.png
+  fullscreen: true
+
+  android: true
+  ios: true
+  web: true
+
+  android_gravity: center
+  ios_content_mode: center
+  web_image_mode: center
+
+  android_12:
+    background_image: challengesTRACTIAN/assets/tractian_name.png
+
