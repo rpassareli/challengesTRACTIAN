@@ -42,7 +42,10 @@ O projeto consiste em um aplicativo Flutter que consome dados da API pública da
 3. Aplicação dos filtros
 4. Expansão de ramos da árvore
 
-> 🔗 **[Link do vídeo no Google Drive / YouTube / Loom aqui]**
+  DENTRO DO REPOSITORIO NA BRANCH master COM O NOME `Screen_Recording_20250715_093651.mp4`
+> 🔗 **[https://github.com/rpassareli/challengesTRACTIAN/blob/master/Screen_Recording_20250715_093651.mp4]**
+> ou NO GOOGLE DRIVE
+> > 🔗**[https://drive.google.com/file/d/1-tLJ1dQEt79W3ON0C8Tnrt32sRAAG5Kj/view?usp=drive_link]**
 
 ---
 
